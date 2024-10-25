@@ -1,0 +1,8 @@
+/dist/
+/build/
+/config.json
+/platforms/qminimal.dll
+/platforms/qoffscreen.dll
+/platforms/qwebgl.dll
+/platforms/qwindows.dll
+/pywin32_system32/
